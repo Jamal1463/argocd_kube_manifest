@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: jamaldckr/todo-app:build-7
+        image: jamaldckr/todo-app:build-8
         ports:
         - containerPort: 80
